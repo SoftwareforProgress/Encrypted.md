@@ -22,7 +22,7 @@ This project is maintained by the [Software for Progress Foundation](https://sof
 
 -   **Go** – Secure backend, AES encryption, file I/O
 -   **Wails** – Cross-platform desktop app framework (Go + Web)
--   **Svelte** – Flexible frontend UI
+-   **React** – Flexible frontend UI
 
 ---
 
